@@ -1,0 +1,22 @@
+{
+  "name": "capital-balance-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeicaSimile/capital-balance-api.git"
+  },
+  "author": "LeicaSimile",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeicaSimile/capital-balance-api/issues"
+  },
+  "homepage": "https://github.com/LeicaSimile/capital-balance-api#readme",
+  "dependencies": {
+    "fastify": "^3.3.0"
+  }
+}
